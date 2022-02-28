@@ -1,0 +1,20 @@
+Análise -> Decompõe os elementos para resolver
+Síntese -> Reconstruir os elementos
+A ordem pode ser Sequencial(em fila) ou variável(concomitante)
+
+Os Pilares do Pensamento Computacional:
+1.Decomposição
+	Finalidade--------------|
+	Interface---------------|	Definição de Componentes
+	Funcionalidade----------|		Etapas
+	Pré Requisitos----------|
+
+2.Reconhecimento de Padrões
+	Modelo Base-------------|
+	Estrutura invariante----|	Similaridade e
+	Repetição---------------|	   Diferença
+
+	Extração de Características
+	Classificação de Dados 
+3.Abstração
+4.Algoritmos
