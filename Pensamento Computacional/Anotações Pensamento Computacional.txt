@@ -14,7 +14,13 @@ Os Pilares do Pensamento Computacional:
 	Estrutura invariante----|	Similaridade e
 	Repetição---------------|	   Diferença
 
-	Extração de Características
-	Classificação de Dados 
+	Extração de Características-------|	Abordagem
+	Classificação de Dados------------|
+
 3.Abstração
+
+	Generalização -> Tornar-se geral, mais amplo, extensão
+	Abstração -> Isolamento de um objeto da realidade
+
 4.Algoritmos
+Instruções de passo-a-passo para resolver um problema
